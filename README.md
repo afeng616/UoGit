@@ -1,7 +1,8 @@
+# Usage of Git
 
 ## 一些指南
 
-[git下载](https://git-scm.com/downloads)
+[git下载](https://git-scm.com/downloads)  
 [git简明指南](https://rogerdudler.github.io/git-guide/index.zh.html)
 
 
