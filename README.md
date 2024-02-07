@@ -1,4 +1,10 @@
 
+## 一些指南
+
+[git下载](https://git-scm.com/downloads)
+[git简明指南](https://rogerdudler.github.io/git-guide/index.zh.html)
+
+
 ## git的基本使用
 
 1. 初始化仓库repository
